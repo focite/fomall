@@ -15,7 +15,7 @@ cbuild
 **/.DS_Store
 .test/
 main
-main.exe
 output/
 manifest/output/
 temp/
+*.exe*
